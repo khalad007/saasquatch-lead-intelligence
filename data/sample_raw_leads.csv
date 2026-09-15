@@ -1,0 +1,16 @@
+company_name,domain,industry,city,country,employee_count,estimated_revenue,email,phone,linkedin_url,source_confidence
+BrightPath Logistics,brightpathlogistics.com,Logistics,Los Angeles,USA,85,4200000,contact@brightpathlogistics.com,+1-213-555-0142,linkedin.com/company/brightpath-logistics,0.91
+Brightpath Logistics Inc,brightpathlogistics.com,Logistics,Los Angeles,USA,85,4200000,info@brightpathlogistics.com,213-555-0142,linkedin.com/company/brightpath-logistics,0.74
+Vertex Cloud Solutions,vertexcloud.io,SaaS,Austin,USA,42,2100000,hello@vertexcloud.io,+1-512-555-0199,linkedin.com/company/vertex-cloud,0.88
+Nimbus Health Analytics,nimbushealth.ai,Healthcare Tech,Boston,USA,120,9800000,team@nimbushealth.ai,617-555-0110,linkedin.com/company/nimbus-health,0.95
+Nimbus Health Analytics,nimbushealth.ai,Healthcare Tech,Boston,USA,120,9800000,team@nimbushealth.ai,617-555-0110,linkedin.com/company/nimbus-health,0.95
+Coastal Fresh Foods,coastalfreshfoods.com,Food & Beverage,San Diego,USA,15,650000,notarealemail,858-555-0177,linkedin.com/company/coastal-fresh,0.42
+Ironclad Manufacturing,ironcladmfg.com,Manufacturing,Detroit,USA,310,28000000,sales@ironcladmfg.com,313-555-0123,linkedin.com/company/ironclad-mfg,0.89
+Petal & Pine Florists,petalpine.com,Retail,Portland,USA,6,220000,orders@petalpine.com,invalid-phone,linkedin.com/company/petal-pine,0.55
+Quantum Fintech Labs,quantumfintech.io,Fintech,New York,USA,58,7300000,contact@quantumfintech.io,212-555-0166,linkedin.com/company/quantum-fintech,0.93
+Quantum Fintech Laboratories,quantumfintech.io,Fintech,New York,USA,58,7300000,contact@quantumfintech.io,212-555-0166,linkedin.com/company/quantum-fintech,0.7
+Greenline Agriculture,greenlineag.com,Agriculture,Fresno,USA,27,1450000,info@greenlineag.com,559-555-0188,linkedin.com/company/greenline-ag,0.81
+TinyDesk Coworking,tinydeskcoworking.com,Real Estate,Denver,USA,9,380000,,720-555-0134,linkedin.com/company/tinydesk-coworking,0.38
+Summit Legal Partners,summitlegal.law,Legal Services,Chicago,USA,64,5600000,partners@summitlegal.law,312-555-0155,linkedin.com/company/summit-legal,0.87
+Orbit Marketing Group,orbitmarketing.co,Marketing,Miami,USA,33,1900000,hello@orbitmarketing.co,305-555-0121,linkedin.com/company/orbit-marketing,0.79
+Cascade Renewable Energy,cascaderenewables.com,Energy,Seattle,USA,145,18500000,info@cascaderenewables.com,206-555-0198,linkedin.com/company/cascade-renewables,0.92
