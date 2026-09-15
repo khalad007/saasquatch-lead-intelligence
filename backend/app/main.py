@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 
 from app.database import Base, engine
 from app.models.lead import Lead  # noqa: F401 (ensures model is registered)
+from app.routers import leads
 
 load_dotenv()
 
@@ -24,6 +25,8 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+app.include_router(leads.router)
 
 
 @app.get("/")
