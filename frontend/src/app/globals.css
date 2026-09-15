@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #14171c;
+  --panel: #1c2027;
+  --hairline: #2a2f38;
+  --text-primary: #e8e6e1;
+  --text-secondary: #8b909b;
+  --tier-hot: #c9803a;
+  --tier-warm: #5b8a8a;
+  --tier-cold: #5b6b8c;
+  --danger: #b85c5c;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-panel: var(--panel);
+  --color-hairline: var(--hairline);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-tier-hot: var(--tier-hot);
+  --color-tier-warm: var(--tier-warm);
+  --color-tier-cold: var(--tier-cold);
+  --color-danger: var(--danger);
+  --font-sans: ui-sans-serif, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "Cascadia Code", Consolas, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+}
+
+/* Tabular figures for anything numeric -- scores should never jitter */
+.tabular {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background: var(--tier-hot);
+  color: #14171c;
+}
