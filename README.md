@@ -7,6 +7,11 @@ lead data and adds three things SaaSquatch's core scraper doesn't do transparent
 **data validation**, and **explainable AI-powered lead scoring** — so a sales rep opens their CSV
 already knowing which 10 leads to call first, and why.
 
+## Live Demo
+
+- Frontend: https://saasquatch-lead-intelligence.vercel.app
+- Backend API docs: https://saasquatch-lead-intelligence-cigq.onrender.com/docs
+
 ## Why this feature
 
 SaaSquatch scrapes companies at volume and shows an "AI Company Score," but reps still have to
